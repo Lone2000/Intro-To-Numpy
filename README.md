@@ -8,7 +8,18 @@ Hence, making this library one the most popular lib within the world of Data sci
 Numpy array's are 50x faster then normal python lists, due to the reason that Numpy array's are stored in a continous fashion inside the memory unlike lists.
 
 
-# Numpy Notes
+# Foundamental's of Matplotlib
+Matplotlib is a plot graph library in python, iwdly used for visualization of data.
+
+We'll go over a few basic plot's for you to understand how data points are ploted.
+
+I'll go over
+- Line Plot
+- Scatter Plot
+- Histogram
+- Correlation Between Two Data Axis
+
+# Notes
 
 I've created a google coolab ipynb file with all the fundamental and critical techniques used in real world. Along side with my insight of all the functions, it is attached with line's of code.
 
