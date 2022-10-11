@@ -19,6 +19,19 @@ I'll go over
 - Histogram
 - Correlation Between Two Data Axis
 
+
+# Introduction Of Pandas
+Pandas is python library which can handle high level data manipulation.
+
+Data is stored within an object like numpy as it's build on the Numpy Package. In Pandas data is stored on an object known as a DataFrame
+
+Unlike, numpy array's which is a n-dimensional array however it only tolerates one data type.
+
+rows are basically oberservations in a table.
+
+columns are the variables of these observations.
+
+
 # Notes
 
 I've created a google coolab ipynb file with all the fundamental and critical techniques used in real world. Along side with my insight of all the functions, it is attached with line's of code.
